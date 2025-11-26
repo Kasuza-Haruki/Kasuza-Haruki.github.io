@@ -7,7 +7,49 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://kasuza-haruki.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 26 Nov 2025 23:50:15 +0800</lastBuildDate><atom:link href="https://kasuza-haruki.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>1</title>
+        <link>https://kasuza-haruki.github.io/p/1/</link>
+        <pubDate>Wed, 26 Nov 2025 23:50:15 +0800</pubDate>
+        
+        <guid>https://kasuza-haruki.github.io/p/1/</guid>
+        <description>&lt;h3 id=&#34;快速搭建ssm框架&#34;&gt;快速搭建SSM框架
+&lt;/h3&gt;&lt;p&gt;​	-先用再练习&lt;/p&gt;
+&lt;p&gt;​	-SSM分别代表：&lt;/p&gt;
+&lt;p&gt;​		S：Spring：轻量核心模型框架，作用：管理&lt;/p&gt;
+&lt;p&gt;​			-实体类&lt;/p&gt;
+&lt;p&gt;​			-Da模型 IStudent.java  applicationContext.xml&lt;/p&gt;
+&lt;p&gt;​			-案例：如何实现数据持久层Dao&lt;/p&gt;
+&lt;p&gt;​					-c3p0-config.xml&lt;/p&gt;
+&lt;p&gt;​					-C3P0Util.java&lt;/p&gt;
+&lt;p&gt;​					-IStudentDao&lt;/p&gt;
+&lt;p&gt;​			-使用Spring集成Mybatis  =&amp;gt;Dao层&lt;/p&gt;
+&lt;p&gt;​					-c3p0-config.xml&lt;/p&gt;
+&lt;p&gt;​					-applicationContext-dao.xml&lt;/p&gt;
+&lt;p&gt;​							-扫描Dao所有接口&lt;/p&gt;
+&lt;p&gt;​							-配置连接池（替换C3P0Util.java）&lt;/p&gt;
+&lt;p&gt;​					-IStudentDao&lt;/p&gt;
+&lt;p&gt;​							-映射文件IStudentDao.xml&lt;/p&gt;
+&lt;p&gt;​							-sql&lt;/p&gt;
+&lt;p&gt;​							-前端文件解析 login：前缀，.jsp：后缀&lt;/p&gt;
+&lt;p&gt;​	-S：SpringMVC:前端控制器&lt;/p&gt;
+&lt;p&gt;​		-相当于Servlet（Servlet就是SpringMVC的前身）&lt;/p&gt;
+&lt;p&gt;​		-Spring来管理SpringMVC&lt;/p&gt;
+&lt;p&gt;​				-SpringMVC-config.xml&lt;/p&gt;
+&lt;p&gt;​					-扫描前端控制器所有的类&lt;/p&gt;
+&lt;p&gt;​					-开始注解&lt;/p&gt;
+&lt;p&gt;​		-LoginServlet.java&lt;/p&gt;
+&lt;p&gt;​			-@Controller&lt;/p&gt;
+&lt;p&gt;​			-使用方法来跳转 login.jsp&lt;/p&gt;
+&lt;p&gt;​				public String login(){&lt;/p&gt;
+&lt;p&gt;​					return &amp;ldquo;login&amp;rdquo;;&lt;/p&gt;
+&lt;p&gt;​				}&lt;/p&gt;
+&lt;p&gt;​	案例&lt;/p&gt;
+&lt;p&gt;​		&lt;a href=&#34;login&#34;&gt;登录 &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;​		http://localhost:80810/project-name/login&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Chinese Test</title>
         <link>https://kasuza-haruki.github.io/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
@@ -437,6 +479,48 @@ $$</description>
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
+        </item>
+        <item>
+        <title></title>
+        <link>https://kasuza-haruki.github.io/p/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://kasuza-haruki.github.io/p/</guid>
+        <description>&lt;h3 id=&#34;快速搭建ssm框架&#34;&gt;快速搭建SSM框架
+&lt;/h3&gt;&lt;p&gt;​	-先用再练习&lt;/p&gt;
+&lt;p&gt;​	-SSM分别代表：&lt;/p&gt;
+&lt;p&gt;​		S：Spring：轻量核心模型框架，作用：管理&lt;/p&gt;
+&lt;p&gt;​			-实体类&lt;/p&gt;
+&lt;p&gt;​			-Da模型 IStudent.java  applicationContext.xml&lt;/p&gt;
+&lt;p&gt;​			-案例：如何实现数据持久层Dao&lt;/p&gt;
+&lt;p&gt;​					-c3p0-config.xml&lt;/p&gt;
+&lt;p&gt;​					-C3P0Util.java&lt;/p&gt;
+&lt;p&gt;​					-IStudentDao&lt;/p&gt;
+&lt;p&gt;​			-使用Spring集成Mybatis  =&amp;gt;Dao层&lt;/p&gt;
+&lt;p&gt;​					-c3p0-config.xml&lt;/p&gt;
+&lt;p&gt;​					-applicationContext-dao.xml&lt;/p&gt;
+&lt;p&gt;​							-扫描Dao所有接口&lt;/p&gt;
+&lt;p&gt;​							-配置连接池（替换C3P0Util.java）&lt;/p&gt;
+&lt;p&gt;​					-IStudentDao&lt;/p&gt;
+&lt;p&gt;​							-映射文件IStudentDao.xml&lt;/p&gt;
+&lt;p&gt;​							-sql&lt;/p&gt;
+&lt;p&gt;​							-前端文件解析 login：前缀，.jsp：后缀&lt;/p&gt;
+&lt;p&gt;​	-S：SpringMVC:前端控制器&lt;/p&gt;
+&lt;p&gt;​		-相当于Servlet（Servlet就是SpringMVC的前身）&lt;/p&gt;
+&lt;p&gt;​		-Spring来管理SpringMVC&lt;/p&gt;
+&lt;p&gt;​				-SpringMVC-config.xml&lt;/p&gt;
+&lt;p&gt;​					-扫描前端控制器所有的类&lt;/p&gt;
+&lt;p&gt;​					-开始注解&lt;/p&gt;
+&lt;p&gt;​		-LoginServlet.java&lt;/p&gt;
+&lt;p&gt;​			-@Controller&lt;/p&gt;
+&lt;p&gt;​			-使用方法来跳转 login.jsp&lt;/p&gt;
+&lt;p&gt;​				public String login(){&lt;/p&gt;
+&lt;p&gt;​					return &amp;ldquo;login&amp;rdquo;;&lt;/p&gt;
+&lt;p&gt;​				}&lt;/p&gt;
+&lt;p&gt;​	案例&lt;/p&gt;
+&lt;p&gt;​		&lt;a href=&#34;login&#34;&gt;登录 &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;​		http://localhost:80810/project-name/login&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>Links</title>
