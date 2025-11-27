@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Test on Holo</title>
+        <title>分类A on Holo</title>
         <link>https://kasuza-haruki.github.io/categories/test/</link>
-        <description>Recent content in Test on Holo</description>
+        <description>Recent content in 分类A on Holo</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Example Person</copyright><atom:link href="https://kasuza-haruki.github.io/categories/test/index.xml" rel="self" type="application/rss+xml" /><item>
+        <copyright>Holo</copyright><atom:link href="https://kasuza-haruki.github.io/categories/test/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Chinese Test</title>
         <link>https://kasuza-haruki.github.io/p/test-chinese/</link>
-        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
         
         <guid>https://kasuza-haruki.github.io/p/test-chinese/</guid>
         <description>&lt;img src="https://kasuza-haruki.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
