@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Emoji on Holo</title>
-        <link>https://kasuza-haruki-github-io.pages.dev/tags/emoji/</link>
+        <link>https://yonashi.top/tags/emoji/</link>
         <description>Recent content in Emoji on Holo</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Holo</copyright>
-        <lastBuildDate>Wed, 26 Nov 2025 22:55:59 +0800</lastBuildDate><atom:link href="https://kasuza-haruki-github-io.pages.dev/tags/emoji/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 26 Nov 2025 22:55:59 +0800</lastBuildDate><atom:link href="https://yonashi.top/tags/emoji/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Emoji Support</title>
-        <link>https://kasuza-haruki-github-io.pages.dev/p/emoji-support/</link>
+        <link>https://yonashi.top/p/emoji-support/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://kasuza-haruki-github-io.pages.dev/p/emoji-support/</guid>
-        <description>&lt;img src="https://kasuza-haruki-github-io.pages.dev/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
+        <guid>https://yonashi.top/p/emoji-support/</guid>
+        <description>&lt;img src="https://yonashi.top/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
 &lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
